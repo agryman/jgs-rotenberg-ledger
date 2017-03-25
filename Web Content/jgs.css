@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+
+BODY {
+	font-family: sans-serif;
+}
+
+TH {
+	text-align: left;
+	background-color: CornflowerBlue;
+}
+
+TR.even-row {
+	background-color: LightGrey;
+}
+
+TR.odd-row {
+	background-color: White;
+}
